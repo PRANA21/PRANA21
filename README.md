@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PRANAJIT
-- 👀 I’m interested in Designing of Dashboard and APK
+- 👋 Hi, I’m @PRANA
+- 👀 I’m interested in Designing of Dashboard 
 - 🌱 I’m currently learning Dashboard Designing
 - 💞️ I’m looking to collaborate on Dashboard Designing
 - 📫 How to reach me pranajit.tgb@gmail.com
